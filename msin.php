@@ -1,4 +1,4 @@
 <?php 
 //this is for testing purpose
-mfgdfjgiuxcvkdmfjgi0udsfgdfksjgfidskgkdklsofujkd,sfmkdslp
+echo 'file changed successfully';
 ?>
